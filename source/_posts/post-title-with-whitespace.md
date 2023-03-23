@@ -3,7 +3,7 @@ title: post title with whitespace
 date: 2023-03-23 02:39:52
 tags:
 ---
-回顾一下 Python 中常用处理字符串的相关函数
+回顾一下 Python 中常用处理字符串的相关函数 from leetcode
 string.capitalize() 把字符串的第一个字符大写
 string.count(str, beg=0, end=len(string)) 返回 str 在 string 里面出现的次数，如果 beg 或者 end 指定则返回指定范围内 str 出现的次数
 string.endswith(obj, beg=0, end=len(string)) 检查字符串是否以 obj 结束，如果beg 或者 end 指定则检查指定的范围内是否以 obj 结束，如果是，返回 True,否则返回 False.
