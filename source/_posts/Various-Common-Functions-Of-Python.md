@@ -8,4 +8,5 @@ https://leetcode.cn/problems/valid-palindrome/solution/xiong-mao-shua-ti-python3
 
 高阶函数(map/reduce/zip/lambda):
 https://johdev.com/python/2020/03/06/The-map,-filter,-reduce,-zip-and-lambda-in-Python.html
+test:
 https://paxzhu.github.io/2023/03/25/Reference_For_Study/
